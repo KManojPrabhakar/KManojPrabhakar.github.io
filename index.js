@@ -1,6 +1,6 @@
 
 function getExperience() {
-    var joiningDate = '06/01/2017';
+    var joiningDate = '12/12/2016';
     var now = new Date();
     var today = new Date(now.getYear(),now.getMonth(),now.getDate());
   
