@@ -12,7 +12,6 @@ function getExperience(joiningDate) {
     joiningDate.substring(0, 2) - 1,
     joiningDate.substring(3, 5)
   );
-
   var yearDob = dob.getYear();
   var monthDob = dob.getMonth();
   var dateDob = dob.getDate();
